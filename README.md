@@ -4,7 +4,9 @@
 
 ## 📌 Project Description
 
-Chatoon is a modern, real-time chat application built for Android using *Jetpack Compose* and *Firebase*. It enables users to register, log in, create chat rooms, and exchange messages instantly. The app leverages Firebase Authentication, Firestore, and Cloud Messaging to deliver a seamless and secure chatting experience.
+Chatoon is a modern, real-time chat application designed for Android using Jetpack Compose and Firebase services. The app allows users to register and authenticate securely via Firebase Authentication, ensuring smooth and reliable access. Once logged in, users can create and join chat rooms, enabling one-on-one or group conversations with real-time updates powered by Cloud Firestore.
+
+Messages are delivered instantly and efficiently through Firebase Cloud Messaging (FCM), providing a responsive and interactive user experience. With Jetpack Compose, the UI is fully declarative, offering a sleek, intuitive, and adaptive design across different devices. The application ensures data synchronization, secure communication, and a scalable architecture, making it suitable for dynamic chat interactions in real-time.
 
 ---
 

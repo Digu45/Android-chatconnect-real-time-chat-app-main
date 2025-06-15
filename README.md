@@ -31,7 +31,7 @@ Chatoon is a modern, real-time chat application built for Android using *Jetpack
 
 1. *Clone the repository:*
     bash
-    git clone https://github.com/prajwalnikam/android-chatconnect-real-time-chat-app.git
+    git clone https://github.com/Digu45/Android-chatconnect-real-time-chat-app-main.git
     cd Chatoon/app
     
 
@@ -84,4 +84,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## Contact
 
-For questions or support, please contact [prajwalnikam4@gmail.com](mailto:prajwalnikam4@gmail.com).
+For questions or support, please contact [diguvapilkar45@gmail.com](mailto:diguvapilkar45@gmail.com).
